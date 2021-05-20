@@ -1,7 +1,6 @@
-# Research Engine Web App
+# Research Engine
 ## 
 ### 
 
 
 
-=
